@@ -175,7 +175,7 @@ results/annotation/*.txt  filter=lfs diff=lfs merge=lfs -text
 ### 1. Clone the repository / 克隆仓库
 
 ```bash
-git clone https://github.com/<your-username>/microarray-gwas-htx.git
+git clone https://github.com/huang961372045/microarray-gwas-htx.git
 cd microarray-gwas-htx
 git lfs pull
 ```
@@ -257,10 +257,10 @@ If you use the scripts or results from this repository, please cite:
 
 ```bibtex
 @misc{htx_microarray_gwas_2024,
-  author       = {<Your Name>},
+  author       = {Ziming Huang},
   title        = {Microarray GWAS Analysis on HTX Heart Tissue Samples},
   year         = {2024},
-  howpublished = {\url{https://github.com/<your-username>/microarray-gwas-htx}}
+  howpublished = {\url{https://github.com/huang961372045/microarray-gwas-htx}}
 }
 ```
 
@@ -276,7 +276,7 @@ And the underlying tools:
 
 | Role | Name | Contact |
 |------|------|---------|
-| Maintainer / 维护者 | Ziming | <email@institution.de> |
+| Maintainer / 维护者 | Ziming | <huangziming222@gmail.com> |
 | Principal Investigator | *to fill* | — |
 | Institution | *to fill* | — |
 
